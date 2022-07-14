@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100vw;
+    height: 100vh;
+}
+.chart_div{
+    width: 90vw;
+    height: 90vh;
+    cursor: pointer;
+}
